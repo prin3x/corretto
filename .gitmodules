@@ -1,0 +1,3 @@
+[submodule "corretto_coffee"]
+	path = corretto_coffee
+	url = https://github.com/prin3x/corretto_coffee.git
